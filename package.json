@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/andrericc/Animation_Project/issues"
   },
-  "homepage": "https://github.com/andrericc/Animation_Project#readme"
+  "homepage": "https://github.com/andrericc/Animation_Project#readme",
+  "dependencies": {
+    "three": "^0.176.0"
+  }
 }
